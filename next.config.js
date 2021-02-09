@@ -11,6 +11,6 @@ module.exports = {
     return config
   },
   images: {
-    domains: ['www.gravatar.com', process.env.APP_DOMAIN, 'readit-client.vercel.app'],
+    domains: ['www.gravatar.com', process.env.APP_DOMAIN, 'readit-client.vercel.app', process.env.NEXT_PUBLIC_CLIENT_BASE_URL, 'https://readit-client.vercel.app','https://readit-client.vercel.app/','www.readit-client.vercel.app', 'www.readit-client.shiroworks.vercel.app'],
   },
 }
