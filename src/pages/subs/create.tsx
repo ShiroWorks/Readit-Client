@@ -102,12 +102,7 @@ export default function create() {
     </div>
   )
 }
-export const config = {
-  api: {
-    // disables call to body parsing module
-    bodyParser: false,
-  }
-};
+
 export const getServerSideProps: GetServerSideProps = async ({ req, res }) => {
   try {
     const cookie = req.headers.cookie
