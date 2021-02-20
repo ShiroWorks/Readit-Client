@@ -23,7 +23,7 @@ Steps to run this project:
 - Arrow voting system
 - Upload image
 
-[Live version](http://178.128.41.180)
+[Demo](https://readit-client.vercel.app)
 
 [Server side code](https://github.com/ShiroWorks/Readit-Backend)
 
