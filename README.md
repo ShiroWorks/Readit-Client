@@ -27,8 +27,8 @@ Steps to run this project:
 
 [Server side code](https://github.com/ShiroWorks/Readit-Backend)
 
-<a href="https://ibb.co/xXjq6Z3"><img src="https://i.ibb.co/QpNvM0X/readit2.jpg" alt="readit2" border="0"></a>
-<a href="https://ibb.co/m4WnV1y"><img src="https://i.ibb.co/JHJYw0p/readit3.jpg" alt="readit3" border="0"></a>
+<a href="https://ibb.co/6g5G10Q"><img src="https://i.ibb.co/9sjBVHP/readit2.jpg" alt="readit2" border="0"></a>
+<a href="https://ibb.co/7gq2Rpb"><img src="https://i.ibb.co/z8zG72N/readit1.jpg" alt="readit1" border="0"></a>
 
 
 
